@@ -1,4 +1,4 @@
-package main
+package merge
 
 func mergeAlternately(word1 string, word2 string) string {
 	acc := ""
